@@ -1,0 +1,10 @@
+num=[1,2,3,5,5,5,45,84,12,50,46]
+print(num.index(5))
+num.sort()
+num.sort(reverse=True)
+num.index(5)
+max(num)
+min(num)
+num.append(8)
+num.extend([1,2,3])
+len(num)
