@@ -1,3 +1,3 @@
 print ("Pathurshan")
-print ("Wayamba univertity of srilanka")
+print ("Wayamba univrsity of srilanka")
 print ("239155")
